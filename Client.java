@@ -30,8 +30,6 @@ import java.util.Scanner;
 /**
  * Client class has functions where the Client requests for file insertion or
  * file lookup multiple times.
- *
- * @author Shweta Yakkali
  */
 
 public class Client {
